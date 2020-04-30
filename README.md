@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3778633.svg)](https://doi.org/10.5281/zenodo.3778633)
+
 # Extended imagery of the spectral library KLUM
 This repository contains the extended imagery of the urban material spectral library KLUM.
 
